@@ -12,5 +12,7 @@ The goal of this analysis was to generate insights that could help Netflix in de
 
 # Contents:
 EDA Business Case.ipynb: Jupyter Notebook containing the analysis code and insights.
+
 netflix.csv: CSV file containing the raw data used for analysis.
+
 README.md: This file, providing an overview of the project.
